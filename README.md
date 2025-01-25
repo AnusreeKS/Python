@@ -23,7 +23,7 @@ Tuples:Creating a tuple and then printing its length.
 ## Assignment 3 : Conditional and Looping Statements
   This repository contains a Jupyter Notebook titled "Conditional & Looping Statements" focused on mastering Python's control flow mechanisms through practical exercises.
 
-Contents
+### Contents
 
 The notebook is divided into sections covering:
 
