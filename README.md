@@ -31,10 +31,12 @@ Conditional Statements: Using if, elif, and else. Nested conditionals and logica
 
 Loops:for loops for iteration.while loops for condition-based repetition. Nested loops for multi-level iteration.
 
-Various problems like finding factorial, calculating required results from user input and categorising the results and printing the result, reversing a number, printing a required series etc are done with conditional and looping statements.
+Various problems like finding factorial, calculating required results from user input and categorising the results and printing the result, reversing a number, 
+printing a required series etc are done with conditional and looping statements.
 
 ## Assignment 4 - Functions
-     This file contains code that is written to deeply understand the use of UserDefined Functions as well as Built -in Functions in python
+     This file contains code that is written to deeply understand the use of 
+     User Defined Functions as well as Built -in Functions in python
 
 ### Contents
 
