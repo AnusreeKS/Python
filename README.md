@@ -47,3 +47,26 @@ printing a required series etc are done with conditional and looping statements.
 4)A code to differentiate between global and local variables in Python.
 5) Code to explain how we can set a default value to a variable in a UDF in Python.
    
+## Assignment 5 : Exception Handling
+     This file demonstrates exception handling techniques in Python.
+
+### Contents
+
+1) Reading a File: Demonstrates how to read a file and handle exceptions if the file is missing.
+2) Exception Handling Mechanisms: Uses try-except to manage runtime errors effectively.
+3) Handling common exceptions like FileNotFoundError, ZeroDivisionError etc.
+4) Includes real-world examples like functions to find average of a list of nubmers, to check whether a list contains a negative number of not etc
+   to improve error resilience in Python applications.
+
+## Assignment 6 : OOPs in Python
+      This fiel explores OOP principles by defining and working with classes and objects. Key concepts include:
+
+          Creating and using classes and objects.
+          Implementing inheritance for specialized class behaviors.
+          Using method overriding for customization.
+
+### Contents
+
+     1)Course Catalog: Defines a base class Course and its subclasses CoreCourse and ElectiveCourse.
+     2)Inheritance and Method Overriding: Demonstrates how subclasses extend the behavior of the base class.
+     3)Practical OOP Applications: Implements real-world OOP scenarios for better understanding.
