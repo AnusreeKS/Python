@@ -70,3 +70,31 @@ printing a required series etc are done with conditional and looping statements.
      1)Course Catalog: Defines a base class Course and its subclasses CoreCourse and ElectiveCourse.
      2)Inheritance and Method Overriding: Demonstrates how subclasses extend the behavior of the base class.
      3)Practical OOP Applications: Implements real-world OOP scenarios for better understanding.
+
+
+## Assignment 7 - NumPy and Pandas
+      This project contains solutions to a set of exercises involving NumPy and Pandas, covering data manipulation, analysis, and transformation tasks.
+
+### Contents
+
+     1)NumPy Array Creation and Reshaping
+     	Create a NumPy array from 1 to 10 and reshape it into a 2x5 matrix.
+
+     2)Extract Elements from a NumPy Array
+          Create a NumPy array with values from 1 to 20 and extract elements between the 5th and 15th index.
+
+     3)Pandas Series Manipulation
+          Create a Pandas Series with fruit quantities and add a new item.
+
+     4)Pandas DataFrame Creation
+          Create a DataFrame with name, age, and gender columns with 10 rows of data.
+
+     5)Adding a New Column
+          Add an occupation column to the previously created DataFrame.
+
+     6)Filtering Data
+          Select rows where the age is greater than or equal to 30.
+
+     7)CSV File Operations
+          Convert the DataFrame to a CSV file, read it back, and display its contents.
+
