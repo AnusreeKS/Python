@@ -98,3 +98,65 @@ printing a required series etc are done with conditional and looping statements.
      7)CSV File Operations
           Convert the DataFrame to a CSV file, read it back, and display its contents.
 
+
+## Assignment 8 - Data Visualisation
+      This project contains three data visualization exercises using Matplotlib and Seaborn. 
+      The goal is to create different types of charts to analyze and represent given datasets.
+      
+### Contents
+
+     1. Line Plot: Population Growth
+          •	Displays the population of four different cities over time.
+          •	X-axis: Years (2010-2016)
+          •	Y-axis: Population
+          •	Each city is represented with a distinct line and marker.
+          
+2. Scatter Plot: Hours Studied vs Test Scores
+          •	Shows the relationship between the number of hours studied and test scores.
+          •	X-axis: Hours Studied
+          •	Y-axis: Test Scores
+          •	Each point represents a student.
+3. Bar Chart: Monthly Sales
+          •	Displays total sales for each month of the year.
+          •	X-axis: Months (Jan-Dec)
+          •	Y-axis: Total Sales
+          •	Uses a bar chart with a teal color scheme.
+
+
+# Module Assignment - Employee Data Analysis
+
+## Overview
+          This project involves analyzing a dataset from ABC Company, consisting of 458 rows and 9 columns.
+          The objective is to preprocess the dataset, perform analytical tasks, and present insights through visualizations.
+          The project demonstrates proficiency in Python programming, data preprocessing, statistical analysis, and data visualization.
+          
+          
+### Preprocessing Steps
+          •	Corrected the "height" column by replacing values with random numbers between 150 and 180.
+          •	Ensured data consistency and integrity before analysis.
+          
+### Analysis Tasks
+          1.	Employee Distribution by Team:
+               o	Calculated the number of employees in each team.
+               o	Determined the percentage split relative to the total employees.
+          2.	Segregation by Position:
+               o	Categorized employees based on their positions within the company.
+          3.	Predominant Age Group:
+               o	Identified the most common age range among employees.
+          4.	Highest Salary Expenditure:
+               o	Determined which team and position had the highest salary allocation.
+          5.	Correlation between Age and Salary:
+               o	Analyzed and visually represented the relationship between age and salary.
+               
+### Graphical Representations
+          For each analysis task, appropriate visualizations were created, including:
+               •	Bar charts for employee distribution and salary expenditure.
+               •	Pie charts for percentage-based distributions.
+               •	Histograms for age group analysis.
+               •	Scatter plots to identify correlations.
+
+               
+### Insights Gained
+          •	Identified key trends in employee distribution and salary allocation.
+          •	Discovered patterns in employee positions and age groups.
+          •	Established relationships between different variables, aiding business decision-making
